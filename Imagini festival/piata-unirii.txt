@@ -1,0 +1,11 @@
+Name: Piata Unirii
+
+Address: Piata Unirii, Cluj-Napoca
+
+Description: Piata Unirii (Romanian for Union Square) is the largest and most important squares in the Romanian city of Cluj-Napoca. The square is one of the largest in Romania, with dimensions of 220 m by 160 m. The central district of the city spreads out from this square. The St. Michael's Church, with the highest church tower in Romania (80m), is the second largest Gothic-style church in Romania. The church was constructed in two phases. The first from 1316 to 1390 and the second from 1410 to 1487. Also, the statue of King of Hungary Matthias Corvinus is located here.
+
+Latitude: 46.769366
+
+Longitude: 23.589618
+
+Number seats: 400

@@ -34,7 +34,11 @@ If the site doesn't open, use a browser to access http://localhost:3000/ .
 
 ### Profile page (will send you to an authentication page in case you aren't logged in)
 
-You can login using Username: admin@admin.ro Password: admin
+You can login using: 
+
+**Username: admin@admin.ro** 
+
+**Password: admin**
 
 ![Tickets page (no implementation for payment)](READMEScreenshots/LoginPage.png)
 
